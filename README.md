@@ -23,5 +23,5 @@ También tengo experiencia en **producción multimedia y estrategia de contenido
 ---
 
 📫 **¿Cómo contactarme?**
-* 📍 Basado en Venezuela.
+* 📍 (https://salvanovasolutions.online)
 * 💬 Interesado en colaborar en proyectos de automatización, sistemas de control y arquitectura de software orientada a resultados.
